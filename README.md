@@ -2,7 +2,6 @@
 The objective of this project was to use SQL to query data provided by a company named ForestQuery, and create a report of findings and recommendations for the leadership team to help them understand the global deforestation overview between 1990 and 2016.
 
 ## Background
-*Provided by Udacity*  
 
 ForestQuery, a ficitional non-profit organization, is on a mission to reduce deforestation around the world and raises awareness about this important environmental topic.
 
